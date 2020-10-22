@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55aeb5828941e0152a2d121d39a0965e",
+    "revision": "f4f02635f3618ce3ff1470bb638c2ec9",
     "url": "/NewReactPort/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NewReactPort/static/js/2.d670c14b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cedbb6561f68514da317",
-    "url": "/NewReactPort/static/js/main.0f91f0df.chunk.js"
+    "revision": "bc94c5fc1a3455a462a5",
+    "url": "/NewReactPort/static/js/main.53f946f4.chunk.js"
   },
   {
     "revision": "6e6ff6a434aaa1515c8d",
