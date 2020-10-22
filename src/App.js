@@ -14,13 +14,13 @@ const App = () => {
         <Navbar/>
         
         <Switch>
-          <Route exact path="/newreactport/">
+          <Route exact path="/">
             <AboutMe/>
           </Route>
-          <Route path="/newreactport/portfolio">
+          <Route path="/portfolio">
             <Portfolio/>
           </Route>
-          <Route path="/newreactport/contact">
+          <Route path="/contact">
             <Contact/>
           </Route>
 
