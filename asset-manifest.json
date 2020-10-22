@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/NewReactPort/static/js/main.ded83e38.chunk.js",
-    "main.js.map": "/NewReactPort/static/js/main.ded83e38.chunk.js.map",
+    "main.js": "/NewReactPort/static/js/main.0f91f0df.chunk.js",
+    "main.js.map": "/NewReactPort/static/js/main.0f91f0df.chunk.js.map",
     "runtime-main.js": "/NewReactPort/static/js/runtime-main.a7b58147.js",
     "runtime-main.js.map": "/NewReactPort/static/js/runtime-main.a7b58147.js.map",
-    "static/js/2.a5a321f5.chunk.js": "/NewReactPort/static/js/2.a5a321f5.chunk.js",
-    "static/js/2.a5a321f5.chunk.js.map": "/NewReactPort/static/js/2.a5a321f5.chunk.js.map",
+    "static/js/2.d670c14b.chunk.js": "/NewReactPort/static/js/2.d670c14b.chunk.js",
+    "static/js/2.d670c14b.chunk.js.map": "/NewReactPort/static/js/2.d670c14b.chunk.js.map",
     "index.html": "/NewReactPort/index.html",
-    "precache-manifest.1a752e5c13543dd47de2af10c086ae91.js": "/NewReactPort/precache-manifest.1a752e5c13543dd47de2af10c086ae91.js",
+    "precache-manifest.e4a3ed873945aaf6890aee9e2669a929.js": "/NewReactPort/precache-manifest.e4a3ed873945aaf6890aee9e2669a929.js",
     "service-worker.js": "/NewReactPort/service-worker.js",
-    "static/js/2.a5a321f5.chunk.js.LICENSE.txt": "/NewReactPort/static/js/2.a5a321f5.chunk.js.LICENSE.txt",
+    "static/js/2.d670c14b.chunk.js.LICENSE.txt": "/NewReactPort/static/js/2.d670c14b.chunk.js.LICENSE.txt",
     "static/media/Arch-Rock.jpg": "/NewReactPort/static/media/Arch-Rock.e76be3a0.jpg",
     "static/media/BudgetTracker.png": "/NewReactPort/static/media/BudgetTracker.f3dbf93f.png",
     "static/media/CoZone.jpg": "/NewReactPort/static/media/CoZone.337e0b20.jpg",
@@ -22,7 +22,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a7b58147.js",
-    "static/js/2.a5a321f5.chunk.js",
-    "static/js/main.ded83e38.chunk.js"
+    "static/js/2.d670c14b.chunk.js",
+    "static/js/main.0f91f0df.chunk.js"
   ]
 }
