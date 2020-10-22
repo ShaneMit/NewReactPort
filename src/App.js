@@ -9,7 +9,7 @@ import Project from './components/Projects'
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/newreactport">
       <div>
         <Navbar/>
         
