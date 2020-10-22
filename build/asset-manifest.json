@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/NewReactPort/static/js/main.db4ce120.chunk.js",
-    "main.js.map": "/NewReactPort/static/js/main.db4ce120.chunk.js.map",
+    "main.js": "/NewReactPort/static/js/main.30e2b952.chunk.js",
+    "main.js.map": "/NewReactPort/static/js/main.30e2b952.chunk.js.map",
     "runtime-main.js": "/NewReactPort/static/js/runtime-main.a7b58147.js",
     "runtime-main.js.map": "/NewReactPort/static/js/runtime-main.a7b58147.js.map",
     "static/js/2.a5a321f5.chunk.js": "/NewReactPort/static/js/2.a5a321f5.chunk.js",
     "static/js/2.a5a321f5.chunk.js.map": "/NewReactPort/static/js/2.a5a321f5.chunk.js.map",
     "index.html": "/NewReactPort/index.html",
-    "precache-manifest.295d616b6e0c246547a577d51ba7e317.js": "/NewReactPort/precache-manifest.295d616b6e0c246547a577d51ba7e317.js",
+    "precache-manifest.a0644f97b2f6983fd544aeb328fc0e68.js": "/NewReactPort/precache-manifest.a0644f97b2f6983fd544aeb328fc0e68.js",
     "service-worker.js": "/NewReactPort/service-worker.js",
     "static/js/2.a5a321f5.chunk.js.LICENSE.txt": "/NewReactPort/static/js/2.a5a321f5.chunk.js.LICENSE.txt",
     "static/media/Arch-Rock.jpg": "/NewReactPort/static/media/Arch-Rock.e76be3a0.jpg",
@@ -23,6 +23,6 @@
   "entrypoints": [
     "static/js/runtime-main.a7b58147.js",
     "static/js/2.a5a321f5.chunk.js",
-    "static/js/main.db4ce120.chunk.js"
+    "static/js/main.30e2b952.chunk.js"
   ]
 }
