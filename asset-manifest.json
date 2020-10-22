@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/newreactport/static/js/main.f25ee198.chunk.js",
+    "main.js.map": "/newreactport/static/js/main.f25ee198.chunk.js.map",
+    "runtime-main.js": "/newreactport/static/js/runtime-main.591470dc.js",
+    "runtime-main.js.map": "/newreactport/static/js/runtime-main.591470dc.js.map",
+    "static/js/2.66a33cbe.chunk.js": "/newreactport/static/js/2.66a33cbe.chunk.js",
+    "static/js/2.66a33cbe.chunk.js.map": "/newreactport/static/js/2.66a33cbe.chunk.js.map",
+    "index.html": "/newreactport/index.html",
+    "precache-manifest.3bf5c841453e63d1752aa4dd241c9bcc.js": "/newreactport/precache-manifest.3bf5c841453e63d1752aa4dd241c9bcc.js",
+    "service-worker.js": "/newreactport/service-worker.js",
+    "static/js/2.66a33cbe.chunk.js.LICENSE.txt": "/newreactport/static/js/2.66a33cbe.chunk.js.LICENSE.txt",
+    "static/media/Arch-Rock.jpg": "/newreactport/static/media/Arch-Rock.e76be3a0.jpg",
+    "static/media/BudgetTracker.png": "/newreactport/static/media/BudgetTracker.f3dbf93f.png",
+    "static/media/CoZone.jpg": "/newreactport/static/media/CoZone.337e0b20.jpg",
+    "static/media/FitnessTracker.png": "/newreactport/static/media/FitnessTracker.313abe21.png",
+    "static/media/Joshua-Tree.jpg": "/newreactport/static/media/Joshua-Tree.1f6192a3.jpg",
+    "static/media/Listivity.png": "/newreactport/static/media/Listivity.5797f98f.png",
+    "static/media/Monterey.jpg": "/newreactport/static/media/Monterey.93480639.jpg",
+    "static/media/NoteTaker.png": "/newreactport/static/media/NoteTaker.73097e05.png",
+    "static/media/ReactFolio.png": "/newreactport/static/media/ReactFolio.9ffac4b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.591470dc.js",
+    "static/js/2.66a33cbe.chunk.js",
+    "static/js/main.f25ee198.chunk.js"
+  ]
+}
