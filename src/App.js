@@ -1,5 +1,5 @@
 import React from 'react';
-import { Switch, Link, Route, HashRouter as Router } from 'react-router-dom'
+import { Switch, Link, Route, BrowserRouter as Router } from 'react-router-dom'
 import AboutMe from './pages/About Me'
 import Portfolio from './pages/Portfolio'
 import Contact from './pages/Contact'
@@ -9,7 +9,7 @@ import Project from './components/Projects'
 
 const App = () => {
   return (
-    <Router basename="/newreactport">
+    <Router>
       <div>
         <Navbar/>
         
